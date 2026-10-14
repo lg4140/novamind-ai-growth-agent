@@ -1,0 +1,5 @@
+# Tested using Python 3.11+; install locked versions according to your platform when deploying.
+openai>=2.3,<3
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+requests>=2.31,<3
